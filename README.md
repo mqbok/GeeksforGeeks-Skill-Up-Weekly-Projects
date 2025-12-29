@@ -1,1 +1,1 @@
-"# GeeksforGeeks-Skill-Up-Weekly-Projects" 
+These are my solutions for weekly projects in GeeksforGeeks Skill Up.
