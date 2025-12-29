@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Cinema Seat-Booking System/Cinema Seat-Booking System.vcxproj" />
+</Solution>
